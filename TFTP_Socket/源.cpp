@@ -195,15 +195,15 @@ int main()
 
 		short operation_code;
 		printf("\n");
-
+		
 		printf("████████╗███████╗████████╗██████╗\n");
 		printf("╚══██╔══╝██╔════╝╚══██╔══╝██╔══██╗\n");
 		printf("   ██║   █████╗     ██║   ██████╔╝\n");
 		printf("   ██║   ██╔══╝     ██║   ██╔═══╝\n");
 		printf("   ██║   ██║        ██║   ██║\n");
 		printf("   ╚═╝   ╚═╝        ╚═╝   ╚═╝\n");
-
-
+		                                                                                                                                                                                               
+                                                                                                                                                                                              
 		printf("欢迎使用TFTP客户端!\n");
 		printf("===========请输入数字选择功能===========\n");
 		printf("0 - 关闭客户端\n");
